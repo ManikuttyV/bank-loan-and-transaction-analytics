@@ -151,7 +151,7 @@ The project demonstrates strong portfolio performance with stable financial flow
 
 * 📧 Email: manikuttyv8@gmail.com
 * 💼 LinkedIn: www.linkedin.com/in/manikuttyv
-* 💻 GitHub: https://github.com/yourusername
+* 💻 GitHub: https://github.com/ManikuttyV
 
 ---
 
